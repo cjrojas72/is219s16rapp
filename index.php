@@ -323,7 +323,11 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
                             <p>Position: Hourly Case Processor</p>
-                            <p>Duties: fjalkdjflkajdlkfjasl dlfajsdlkfjaslkdjflsakdjf l;sa jl;sjl lksjdl;</p>
+                            <p>Duties:</p>
+                            	<ul>
+                            		<li>Communicate and cooperate with various court divisions and staff in managing office operations and projects</li>
+					<li>Perform basic clerical duties such as filing, copying, data entry, and case archiving </li>	
+                            	</ul>
                             <ul class="list-inline item-details">
                                 <li>Location:
                                     <strong>2 Broad Street Elizabeth, New Jersey 07201
