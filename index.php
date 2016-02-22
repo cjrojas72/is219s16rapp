@@ -107,7 +107,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cLtdCNw9jTTISO1Yt-Z-7GMBY76fqglN9_XZWac08bPH_cOm" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -321,7 +321,7 @@
                         <div class="modal-body">
                             <h2>Union County Courthouse</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cLtdCNw9jTTISO1Yt-Z-7GMBY76fqglN9_XZWac08bPH_cOm" class="img-responsive img-centered" alt="">
                             <p>Position: Hourly Case Processor</p>
                             <p>Duties:
                             	<ul>
