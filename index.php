@@ -189,8 +189,8 @@
                     <p>As a Information Systems major at Rutgers University, I plan to use my knowledge, skills, and passion for web development to help you achieve your business goals and needs. </p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="https://www.google.com/" class="btn btn-lg btn-outline">
-                    cjrojas.72@rutgers.edu
+                    <a href="https://github.com/cjrojas72" class="btn btn-lg btn-outline">
+                    github work
                     </a>
                 </div>
             </div>
@@ -323,11 +323,12 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
                             <p>Position: Hourly Case Processor</p>
-                            <p>Duties:</p>
+                            <p>Duties:
                             	<ul>
                             		<li>Communicate and cooperate with various court divisions and staff in managing office operations and projects</li>
 					<li>Perform basic clerical duties such as filing, copying, data entry, and case archiving </li>	
                             	</ul>
+                            </p>
                             <ul class="list-inline item-details">
                                 <li>Location:
                                     <strong>2 Broad Street Elizabeth, New Jersey 07201
@@ -435,22 +436,19 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p></p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Major:
+                                    <strong>Bachelor of Arts, Information Systems</strong>
                                 </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                <li>Graduation Date: 
+                                    <strong>March 2017</strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Location:
+                                    <strong>Newark, NJ</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
