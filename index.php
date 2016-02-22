@@ -144,7 +144,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
+                        <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgFjZRaoWNa7E6KHmU29xHofc61AtgbK0CdY5q0pPHUhyHaXzG" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -282,8 +282,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                        <h3>Questions?</h3>
+                        <p>cjrojas.72@rutgers.edu</p>
                     </div>
                 </div>
             </div>
@@ -438,7 +438,7 @@
                         <div class="modal-body">
                             <h2>RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
+                            <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgFjZRaoWNa7E6KHmU29xHofc61AtgbK0CdY5q0pPHUhyHaXzG" class="img-responsive img-centered" alt="">
                             <p></p>
                             <ul class="list-inline item-details">
                                 <li>Major:
